@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChapterOne</string>
+
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_skills">Skills</string>
+    <string name="menu_item_contact">Contact</string>
+
+    <string name="about_text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis nisi quis felis sagittis semper. Vestibulum non velit id nulla feugiat volutpat. Nam ullamcorper sollicitudin quam vel tempor. In lectus nisi, egestas eget dictum vel, ultricies quis magna. Mauris auctor porta semper. Quisque vitae dui tincidunt, mollis lacus vitae, accumsan elit. Duis dignissim dui a orci dapibus tempor. Nulla condimentum consequat nisl, eget vulputate odio. Vestibulum justo justo, gravida ut aliquam eget, rhoncus et leo. Integer condimentum vitae mauris nec sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis nisi quis felis sagittis semper. Vestibulum non velit id nulla feugiat volutpat. Nam ullamcorper sollicitudin quam vel tempor. In lectus nisi, egestas eget dictum vel, ultricies quis magna. Mauris auctor porta semper. Quisque vitae dui tincidunt, mollis lacus vitae, accumsan elit. Duis dignissim dui a orci dapibus tempor. Nulla condimentum consequat nisl, eget vulputate odio. Vestibulum justo justo, gravida ut aliquam eget, rhoncus et leo. Integer condimentum vitae mauris nec sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis nisi quis felis sagittis semper. Vestibulum non velit id nulla feugiat volutpat. Nam ullamcorper sollicitudin quam vel tempor. In lectus nisi, egestas eget dictum vel, ultricies quis magna. Mauris auctor porta semper. Quisque vitae dui tincidunt, mollis lacus vitae, accumsan elit. Duis dignissim dui a orci dapibus tempor. Nulla condimentum consequat nisl, eget vulputate odio. Vestibulum justo justo, gravida ut aliquam eget, rhoncus et leo. Integer condimentum vitae mauris nec sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis nisi quis felis sagittis semper. Vestibulum non velit id nulla feugiat volutpat. Nam ullamcorper sollicitudin quam vel tempor. In lectus nisi, egestas eget dictum vel, ultricies quis magna. Mauris auctor porta semper. Quisque vitae dui tincidunt, mollis lacus vitae, accumsan elit. Duis dignissim dui a orci dapibus tempor. Nulla condimentum consequat nisl, eget vulputate odio. Vestibulum justo justo, gravida ut aliquam eget, rhoncus et leo. Integer condimentum vitae mauris nec sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis nisi quis felis sagittis semper. Vestibulum non velit id nulla feugiat volutpat. Nam ullamcorper sollicitudin quam vel tempor. In lectus nisi, egestas eget dictum vel, ultricies quis magna. Mauris auctor porta semper. Quisque vitae dui tincidunt, mollis lacus vitae, accumsan elit. Duis dignissim dui a orci dapibus tempor. Nulla condimentum consequat nisl, eget vulputate odio. Vestibulum justo justo, gravida ut aliquam eget, rhoncus et leo. Integer condimentum vitae mauris nec sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis nisi quis felis sagittis semper. Vestibulum non velit id nulla feugiat volutpat. Nam ullamcorper sollicitudin quam vel tempor. In lectus nisi, egestas eget dictum vel, ultricies quis magna. Mauris auctor porta semper. Quisque vitae dui tincidunt, mollis lacus vitae, accumsan elit. Duis dignissim dui a orci dapibus tempor. Nulla condimentum consequat nisl, eget vulputate odio. Vestibulum justo justo, gravida ut aliquam eget, rhoncus et leo. Integer condimentum vitae mauris nec sagittis.</string>
+    <string name="about_img_desc">description</string>
+
+    <string name="call_me">Call Me!</string>
+    <string name="email_me">Send An Email!</string>
+    <string name="open_site">Open My Site</string>
+    <string name="send_contact">Send My Contact To A Friend</string>
+
+    <string name="compose_shortcut_short_label1">Send My Contact To A Friend</string>
+    <string name="compose_shortcut_long_label1">Send My Contact To A Friend</string>
+    <string name="compose_disabled_message1">Send My Contact To A Friend</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

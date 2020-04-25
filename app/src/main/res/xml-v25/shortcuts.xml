@@ -1,0 +1,26 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="contact"
+        android:enabled="true"
+        android:icon="@drawable/info_icon"
+        android:shortcutShortLabel="@string/compose_shortcut_short_label1"
+        android:shortcutLongLabel="@string/compose_shortcut_long_label1"
+        android:shortcutDisabledMessage="@string/compose_disabled_message1">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.chapterone"
+            android:targetClass="com.example.chapterone.ContactActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="skills"
+        android:enabled="true"
+        android:icon="@drawable/ability"
+        android:shortcutShortLabel="@string/compose_shortcut_short_label1"
+        android:shortcutLongLabel="@string/compose_shortcut_long_label1"
+        android:shortcutDisabledMessage="@string/compose_disabled_message1">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.chapterone"
+            android:targetClass="com.example.chapterone.SkillsActivity" />
+    </shortcut>
+</shortcuts>
